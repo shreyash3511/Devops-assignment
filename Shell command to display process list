@@ -1,0 +1,3 @@
+#!/bin/bash
+echo " ps command displays process running in current shell and ps -a command displays all process running in Linux system "
+$ps
