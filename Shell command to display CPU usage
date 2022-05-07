@@ -1,0 +1,3 @@
+#!/bin/bash
+echo " htop is more advanced than top because it supports scrolling and mouse interaction as well "
+$htop
