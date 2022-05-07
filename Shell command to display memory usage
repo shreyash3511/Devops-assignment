@@ -1,0 +1,3 @@
+#!/bin/bash
+echo " top and htop sorts by CPU usage and htop is more advanced than top because it supports scrolling and mouse interaction as well "
+$systeminfo
