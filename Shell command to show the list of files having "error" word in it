@@ -1,0 +1,4 @@
+#!/bin/bash
+echo " command which is used to find error word is grep -R "
+echo " Command grep -Rw is used to find exact word error not like errors "
+$ grep -Rw
