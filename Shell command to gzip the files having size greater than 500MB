@@ -1,0 +1,4 @@
+#!/bin/bash
+echo " At first i will find out the files which are greater than 500MB with the find command as find /usr -type f -size +500M "
+echo " after finding the file i will use gzip command to gzip that file like gzip filename "
+$find /usr -type f -size +500M
